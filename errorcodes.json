@@ -1,0 +1,26 @@
+[
+  {
+    "error": 111,
+    "category": "Engine",
+    "description": "Engine Controller Failure - Hardware Failure",
+    "model": "MX Magnum"
+  },
+  {
+    "error": 211,
+    "category": "Armrest",
+    "description": "Hand THrottle",
+    "model": "MX Magnum"
+  },
+  {
+    "error": 1900,
+    "category": "DCU",
+    "description": "Battery Voltage Sensing",
+    "model": "Tier 4a"
+  },
+  {
+    "error": 12,
+    "category": "Transmission",
+    "description": "Master Clutch ",
+    "model": "MX Magnum"
+  }
+]
